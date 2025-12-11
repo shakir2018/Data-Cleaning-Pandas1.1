@@ -7,7 +7,7 @@ A hands-on project demonstrating data cleaning techniques using Pandas in Python
 
 # What You'll Find
 - **Techniques Covered**:
-- Chaining Programming
+- Chain Programming
   - Identifying & filling missing data
   - Removing duplicates and outliers
   - Data type conversions
